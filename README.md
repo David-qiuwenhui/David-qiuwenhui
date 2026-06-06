@@ -40,8 +40,8 @@
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=David-qiuwenhui&show_icons=true&theme=chartreuse-dark&title_color=D97757&text_color=F5E6D3&icon_color=D97757&bg_color=0D1117&border_color=21262D&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-qiuwenhui&layout=compact&theme=chartreuse-dark&title_color=D97757&text_color=F5E6D3&bg_color=0D1117&border_color=21262D&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://gh-stats.work/API?username=David-qiuwenhui&show_icons=true&title_color=D97757&text_color=F5E6D3&icon_color=D97757&bg_color=0D1117&border_color=21262D&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://gh-stats.work/API/top-langs?username=David-qiuwenhui&layout=compact&title_color=D97757&text_color=F5E6D3&bg_color=0D1117&border_color=21262D&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
